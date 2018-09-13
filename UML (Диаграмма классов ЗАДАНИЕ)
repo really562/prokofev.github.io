@@ -1,0 +1,12 @@
+@startuml
+skinparam class {
+	BackgroundColor White
+	ArrowColor Black
+	BorderColor Black
+}
+class "Производитель?" as P {
+ Оборудование?
+Изделие? Производить? (Материалы?, МастерскиДнем?)
+}
+hide circle
+@enduml
