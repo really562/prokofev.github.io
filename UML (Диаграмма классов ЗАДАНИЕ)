@@ -4,9 +4,9 @@ skinparam class {
 	ArrowColor Black
 	BorderColor Black
 }
-class "Производитель?" as P {
- Оборудование?
-Изделие? Производить? (Материалы?, МастерскиДнем?)
+class "Производитель" as P {
+ Оборудование
+Изделие Производить (Материалы, Ежедневно)
 }
 hide circle
 @enduml
