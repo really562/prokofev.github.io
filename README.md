@@ -22,9 +22,11 @@
 
 Создание диаграммы классов и диаграммы прецедентов в PLANTUML (программное средство автоматической генерации UML-диаграмм)
 
-* Текст и рисунок диаграммы классов
+* [Текст](https://github.com/really562/prokofev.github.io/blob/master/UML%20(Диаграмма%20классов%20ЗАДАНИЕ)) и рисунок диаграммы классов
+![](https://github.com/really562/prokofev.github.io/blob/master/Диаграмма%20классов%20(задание).png)
 
-* Текст и рисунок диаграмммы прецедентов
+* [Текст](https://github.com/really562/prokofev.github.io/blob/master/UML%20(Диаграмма%20прецедентов%20ЗАДАНИЕ)) и рисунок диаграмммы прецедентов
+![](https://github.com/really562/prokofev.github.io/blob/master/Диаграмма%20прецедентов%20(задание).png)
 
 ***
 
