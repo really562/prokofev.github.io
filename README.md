@@ -21,11 +21,8 @@
 * [IDEF0-диаграмма в формате .rsf](https://github.com/really562/prokofev.github.io/blob/master/6%20вопросов%20(задание).rsf)
 
 Создание диаграммы классов и диаграммы прецедентов в PLANTUML (программное средство автоматической генерации UML-диаграмм)
-* [Текст](https://github.com/really562/prokofev.github.io/blob/master/UML%20(Диаграмма%20классов%20ЗАДАНИЕ)) и рисунoк диаграммы классов
+* [Текст](https://github.com/really562/prokofev.github.io/blob/master/UML%20(Диаграмма%20классов%20ЗАДАНИЕ)) и рисунoк диаграммы классов 11
 ![](https://github.com/really562/prokofev.github.io/blob/master/Диаграмма%20классов%20(задание).png)
-
-* [Текст](https://github.com/really562/prokofev.github.io/blob/master/UML%20(Диаграмма%20классов%20ЗАДАНИЕ)) и рисунoк диаграммы классов
- ![](https://github.com/really562/prokofev.github.io/blob/master/Диаграмма%20классов%20(задание).png)
 
 * [Текст](https://github.com/really562/prokofev.github.io/blob/master/UML%20(Диаграмма%20прецедентов%20ЗАДАНИЕ)) и рисунок диаграммы прецедентов
 ![](https://github.com/really562/prokofev.github.io/blob/master/Диаграмма%20прецедентов%20(задание).png)
