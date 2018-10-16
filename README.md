@@ -12,7 +12,7 @@
 
 [Диаграмма прецедентов (задание)](https://raw.githubusercontent.com/really562/prokofev.github.io/master/fP71IWCn48RFpLCCUz93mGSGxTRpmjuyXytOXcQJCidYmGf5hpw3leAAnOAupp1v8wUkbbuyUGWPFhxv-KCcCMbANUjKN5Y_rAHRq4qA13TgDDNDOaQXy-OYE46NSvjGZKgYS3sGgHD5n406wH3T7kHr4HiTyT-93gyIf01aP_C4nX8soGQlXhxr2UW8nH8f1dzU_D1ge6qmdSCzhRyXF-Kr.png)
 
-# Лабораторная работа 1.
+### Лабораторная работа 1.
 
 ## Лабораторная работа 2.
 
