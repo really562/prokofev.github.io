@@ -18,7 +18,7 @@
 * IDEF0-диаграмма в развернутом виде
 ![](https://github.com/really562/prokofev.github.io/blob/master/6%20вопросов%20(задание).png)
 
-* IDEF0-диаграмма в формате .rsf
+* [IDEF0-диаграмма в формате .rsf](https://github.com/really562/prokofev.github.io/blob/master/6%20вопросов%20(задание).rsf)
 
 Создание диаграммы классов и диаграммы прецедентов в PLANTUML (программное средство автоматической генерации UML-диаграмм)
 
