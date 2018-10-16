@@ -19,7 +19,7 @@
 ***
 
 ### Лабораторная работа 2.
-
+![Диаграмма с декомпозицией](https://github.com/really562/prokofev.github.io/blob/master/laba2.rsf)
 ***
 
 ### Лабораторная работа 3.
