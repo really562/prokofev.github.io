@@ -18,7 +18,7 @@
 
 ***
 
-### Лабораторная работа 2.
+### Лабораторная работа 2-3.
 * IDEF0
 
 ![](https://github.com/really562/prokofev.github.io/blob/master/Лаба%202_1.png)
@@ -32,10 +32,6 @@
 ![](https://github.com/really562/prokofev.github.io/blob/master/Лаба%202_3.png)
 
 * [Диаграмма в формате .rsf](https://github.com/really562/prokofev.github.io/blob/master/Лаба2.rsf)
-
-***
-
-### Лабораторная работа 3.
 
 ***
 
