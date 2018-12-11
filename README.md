@@ -63,11 +63,11 @@
 
 ![](https://github.com/really562/prokofev.github.io/blob/master/A0(декомпозиция).png)
 
-* Декомпозиция блока А3 (A31-A33) - "Оформление документов"
+* Декомпозиция блока А3 (A31-A33) - "Оформление документов" на три блока
 
 ![](https://github.com/really562/prokofev.github.io/blob/master/A3(декомпозиция).png)
 
-* Декомпозиция блока А33 (A331-A334) - "Передача документов"
+* Декомпозиция блока А33 (A331-A334) - "Передача документов" на четыре блока
 
 ![](https://github.com/really562/prokofev.github.io/blob/master/A33(Декомпозиция).png)
 ***
