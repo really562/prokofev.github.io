@@ -57,24 +57,25 @@
 
 * Контекстная диаграмма А0 - "Автоматизировать систему бронирования туров"
 
-![](https://github.com/really562/prokofev.github.io/blob/master/Бронирование%20туров%20(А0)%20.png)
+![](https://github.com/really562/prokofev.github.io/blob/master/A0(курсовой%20проект).png)
 
 * Декомпозиция диаграммы уровня A0 (A1-A3) на три блока
 
-![](https://github.com/really562/prokofev.github.io/blob/master/Бронирование%20туров.png)
+![](https://github.com/really562/prokofev.github.io/blob/master/A0(декомпозиция).png)
 
 * Декомпозиция блока А3 (A31-A33) - "Оформление документов" на 3 блока
 
-![](https://github.com/really562/prokofev.github.io/blob/master/Поиск%20тура.png)
+![](https://github.com/really562/prokofev.github.io/blob/master/A3(декомпозиция).png)
 
 * Декомпозиция блока А31 - "Оформить договор"
 
-![](https://github.com/really562/prokofev.github.io/blob/master/Оформление%20документов.png)
+![](https://github.com/really562/prokofev.github.io/blob/master/A31(Декомпозиция).png)
 
 * Декомпозиция блока А32 - "Оплата"
 
-![](https://github.com/really562/prokofev.github.io/blob/master/Оформление%20документов.png)
+![](https://github.com/really562/prokofev.github.io/blob/master/A32(Декомпозиция).png)
 
-* Декомпозиция блока А33 (A331-A334) - "Передача документов документов" на 4 блока DFD
+* Декомпозиция блока А33 (A331-A334) - "Передача документов" на 4 блока DFD
 
+![](https://github.com/really562/prokofev.github.io/blob/master/A33(Декомпозиция).png)
 ***
