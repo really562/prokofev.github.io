@@ -63,7 +63,7 @@
 
 ![](https://github.com/really562/prokofev.github.io/blob/master/uml.png)
 
-[Код PlantUML](https://github.com/really562/prokofev.github.io/blob/master/streams.txt)
+[Код PlantUML](https://github.com/really562/prokofev.github.io/blob/master/umlr.txt)
 
 ### Завершение идентификации всех модулей.
 
