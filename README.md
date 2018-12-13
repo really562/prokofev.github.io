@@ -49,38 +49,7 @@
 * Формальное определение цели моделирования (вопросы к модели) - выделение процессов, требующих улучшения путем автоматизации.
 * Формальное определение темы курсового проекта (наименование информационной системы) - Проектирование информационной системы для бронирования туров
 
-[Файл RAMUS](https://github.com/really562/prokofev.github.io/blob/master/Курсовой%20проект.rsf)
-
-### Определение основных средств автоматизации
-* Определение конфигурации технических средств (рабочие станции, серверы, другое оборудование): ПК используемые клиентами, сервер на котором будут хранится базы данных, ПК сотрудников на которых установлена система бронирования.
-* Определение конфигурации программных средств: Система будет разрабатываться в среде разработки Atom с использование языка html\php\mysql, а также  Android Studio с использованием языка Java
-* Определение допустимых видов хранилищ и их размещения: скрины хранилищ
-
-![](https://github.com/really562/prokofev.github.io/blob/master/11.png)
-
-### Завершение идентификации всех потоков
-
-* Построение ERD (диаграммы классов без атрибутов) для всех потоков. 
-
-![](https://github.com/really562/prokofev.github.io/blob/master/streams.png)
-
-[Код PlantUML](https://github.com/really562/prokofev.github.io/blob/master/streams.txt)
-
-### Завершение идентификации всех ролей.
-
-* Построение ERD (диаграммы классов без атрибутов) для всех ролей.
-
-![](https://github.com/really562/prokofev.github.io/blob/master/uml.png)
-
-[Код PlantUML](https://github.com/really562/prokofev.github.io/blob/master/umlr.txt)
-
-### Завершение идентификации всех модулей.
-
-* Построение ERD (диаграммы классов без атрибутов) для всех модулей.
-
-![](https://github.com/really562/prokofev.github.io/blob/master/modules.png)
-
-[Код PlantUML](https://github.com/really562/prokofev.github.io/blob/master/modules.txt)
+[Файл RAMUS](https://github.com/really562/prokofev.github.io/blob/master/Курсовой%20проект.rsf
 
 ### Разработка диаграммы РАМУС
 
@@ -116,5 +85,36 @@
 * Декомпозиция блока А32 - "Оплата"
 
 ![](https://github.com/really562/prokofev.github.io/blob/master/course/06_A32.png)
+
+### Определение основных средств автоматизации
+* Определение конфигурации технических средств (рабочие станции, серверы, другое оборудование): ПК используемые клиентами, сервер на котором будут хранится базы данных, ПК сотрудников на которых установлена система бронирования.
+* Определение конфигурации программных средств: Система будет разрабатываться в среде разработки Atom с использование языка html\php\mysql, а также  Android Studio с использованием языка Java
+* Определение допустимых видов хранилищ и их размещения: скрины хранилищ
+
+![](https://github.com/really562/prokofev.github.io/blob/master/11.png)
+
+### Завершение идентификации всех потоков
+
+* Построение ERD (диаграммы классов без атрибутов) для всех потоков. 
+
+![](https://github.com/really562/prokofev.github.io/blob/master/streams.png)
+
+[Код PlantUML](https://github.com/really562/prokofev.github.io/blob/master/streams.txt)
+
+### Завершение идентификации всех ролей.
+
+* Построение ERD (диаграммы классов без атрибутов) для всех ролей.
+
+![](https://github.com/really562/prokofev.github.io/blob/master/uml.png)
+
+[Код PlantUML](https://github.com/really562/prokofev.github.io/blob/master/umlr.txt)
+
+### Завершение идентификации всех модулей.
+
+* Построение ERD (диаграммы классов без атрибутов) для всех модулей.
+
+![](https://github.com/really562/prokofev.github.io/blob/master/modules.png)
+
+[Код PlantUML](https://github.com/really562/prokofev.github.io/blob/master/modules.txt)
 
 ***
