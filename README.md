@@ -91,7 +91,7 @@
 * Определение конфигурации программных средств: Система будет разрабатываться в среде разработки Atom с использование языка html\php\mysql, а также  Android Studio с использованием языка Java
 * Определение допустимых видов хранилищ и их размещения: скрины хранилищ
 
-![](https://github.com/really562/prokofev.github.io/blob/master/11.png)
+![](https://github.com/really562/prokofev.github.io/blob/master/course/Database.png)
 
 ### Завершение идентификации всех потоков
 
