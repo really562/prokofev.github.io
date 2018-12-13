@@ -61,6 +61,8 @@
 
 ![](https://github.com/really562/prokofev.github.io/blob/master/uml.png)
 
+[Код PlantUML](https://github.com/really562/prokofev.github.io/blob/master/streams.txt)
+
 * Построение ERD (диаграммы классов без атрибутов) для всех ролей. Завершение идентификации всех модулей.
 
 * Построение ERD (диаграммы классов без атрибутов) для всех модулей.
