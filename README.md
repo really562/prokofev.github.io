@@ -80,32 +80,37 @@
 
 ### Разработка диаграммы РАМУС
 
-* Контекстная диаграмма А0 - "Автоматизировать систему бронирования туров"
+* Контекстная диаграмма А0 - "Бронирование туров"
 
-![](https://github.com/really562/prokofev.github.io/blob/master/A0(курсовой%20проект).png)
+![](https://github.com/really562/prokofev.github.io/blob/master/course/01_A0.png)
 
 * Декомпозиция диаграммы уровня A0 (A1-A3) на три блока
 
-![](https://github.com/really562/prokofev.github.io/blob/master/A0(декомпозиция).png)
+![](https://github.com/really562/prokofev.github.io/blob/master/course/02_A0.png)
 
 * Декомпозиция блока А3 (A31-A33) - "Оформление документов" на три блока
 
-![](https://github.com/really562/prokofev.github.io/blob/master/A3(декомпозиция).png)
+![](https://github.com/really562/prokofev.github.io/blob/master/course/04_A3.png)
 
 * Декомпозиция блока А33 (A331-A334) - "Передача документов" на четыре блока
 
-![](https://github.com/really562/prokofev.github.io/blob/master/A33(Декомпозиция).png)
+![](https://github.com/really562/prokofev.github.io/blob/master/course/07_A33.png)
 ***
 
 ## Лабораторная работа 5 (Курсовой проект)
 
 ### Разработка диаграмм в RAMUS - декомпозиция всех автоматизируемых блоков в DFD
 
+* Декомпозиция блока А1 - "Выбрать туры"
+
+![](https://github.com/really562/prokofev.github.io/blob/master/course/03_A1.png)
+
 * Декомпозиция блока А31 - "Оформить договор"
 
-![](https://github.com/really562/prokofev.github.io/blob/master/A31(Декомпозиция).png)
+![](https://github.com/really562/prokofev.github.io/blob/master/course/05_A31.png)
 
 * Декомпозиция блока А32 - "Оплата"
 
-![](https://github.com/really562/prokofev.github.io/blob/master/A32(Декомпозиция).png)
+![](https://github.com/really562/prokofev.github.io/blob/master/course/06_A32.png)
+
 ***
