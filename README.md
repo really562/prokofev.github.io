@@ -74,6 +74,10 @@
 
 * Построение ERD (диаграммы классов без атрибутов) для всех модулей.
 
+![](https://github.com/really562/prokofev.github.io/blob/master/modules.png)
+
+[Код PlantUML](https://github.com/really562/prokofev.github.io/blob/master/modules.txt)
+
 ### Разработка диаграммы РАМУС
 
 * Контекстная диаграмма А0 - "Автоматизировать систему бронирования туров"
