@@ -55,7 +55,12 @@
 ![](https://github.com/really562/prokofev.github.io/blob/master/11.png)
 
 ### Завершение идентификации всех потоков
+
 * Построение ERD (диаграммы классов без атрибутов) для всех потоков. 
+
+![](https://github.com/really562/prokofev.github.io/blob/master/streams.png)
+
+![Код PlantUML](https://github.com/really562/prokofev.github.io/blob/master/streams.txt)
 
 ### Завершение идентификации всех ролей.
 
