@@ -117,4 +117,8 @@
 
 [Код PlantUML](https://github.com/really562/prokofev.github.io/blob/master/modules.txt)
 
+### Диаграмма последовательностей
+
+![](https://github.com/really562/prokofev.github.io/blob/master/course/umlp.png)
+
 ***
