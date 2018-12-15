@@ -34,7 +34,7 @@
 
 ![](https://github.com/really562/prokofev.github.io/blob/master/Лаба%202_3.png)
 
-* [Диаграмма в формате .rsf](https://github.com/really562/prokofev.github.io/blob/master/Лаба2.rsf)
+![Диаграмма в формате .rsf](https://github.com/really562/prokofev.github.io/blob/master/Лаба2.rsf)
 
 ***
 </details>
@@ -99,7 +99,7 @@
 
 ![](https://github.com/really562/prokofev.github.io/blob/master/streams.png)
 
-[Код PlantUML](https://github.com/really562/prokofev.github.io/blob/master/streams.txt)
+![Код PlantUML](https://github.com/really562/prokofev.github.io/blob/master/streams.txt)
 
 ### Завершение идентификации всех ролей.
 
