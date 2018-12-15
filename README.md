@@ -93,6 +93,7 @@
 
 ![](https://github.com/really562/prokofev.github.io/blob/master/course/Database.png)
 
+***
 ## Лабораторная работа 6 (Курсовой проект)
 
 ### Завершение идентификации всех потоков
